@@ -304,6 +304,7 @@ section {
 }
 
 .cta__form form input {
+  background: transparent;
   width: 100%;
   padding: 0.5rem 1rem;
   border: none;
