@@ -290,6 +290,7 @@ section {
 
 .cta__form {
   background: #dee8ff;
+  padding: 2rem 2rem 3rem 2rem;
 }
 
 .cta__form form {
@@ -304,7 +305,7 @@ section {
 }
 
 .cta__form form input {
-  background: transparent;
+  background: var(--color-base);
   width: 100%;
   padding: 0.5rem 1rem;
   border: none;
